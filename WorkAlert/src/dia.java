@@ -9,5 +9,6 @@
  * @author Marti
  */
 public class dia {
-    
+    private entrega Entregas[];
+    private int DD;
 }
