@@ -11,4 +11,8 @@
 public class dia {
     private entrega Entregas[];
     private int DD;
+    
+    public dia(int Dia){
+        this.DD = Dia;
+    }
 }
